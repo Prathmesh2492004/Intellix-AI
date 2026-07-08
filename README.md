@@ -19,30 +19,9 @@ Intellix AI is an intelligent assistant system designed to automate user queries
 
 ## 🏗️ **Tech Stack**
 
-* **Python** / **JavaScript** (choose based on your project)
+* **Python**
 * **Gemini API (Google AI)**
-* **Flask / Node.js** (optional backend)
-* **HTML / React** (optional frontend)
-
----
-
-## 📁 **Project Structure (Example)**
-
-```
-Intellix-AI/
-│── src/
-│   ├── app.py / index.js
-│   ├── ai_engine.py
-│   └── utils/
-│
-│── config/
-│   └── keys.env
-│
-│── README.md
-│── requirements.txt / package.json
-│── .gitignore
-```
-
+* **Flask** 
 ---
 
 ## 🔧 **Setup Instructions**
@@ -60,12 +39,6 @@ For Python:
 
 ```bash
 pip install -r requirements.txt
-```
-
-For Node:
-
-```bash
-npm install
 ```
 
 ### **3. Add Your Gemini API Key**
@@ -89,14 +62,6 @@ Python:
 ```bash
 python app.py
 ```
-
-Node:
-
-```bash
-node index.js
-```
-
----
 
 ## 📡 **Example Gemini API Usage**
 
@@ -152,9 +117,4 @@ This project is under the MIT License.
 Feel free to use and modify it.
 
 ---
-
-## 🙌 **Author**
-
-**Mihir Tamboli**
-AI/ML Developer | Python | React | Automation
 
